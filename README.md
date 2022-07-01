@@ -1,4 +1,4 @@
 # hello-world!
 Exercício para aprendizagem de novas ferramentas para o dia a dia do desenvolvedor..
-Atividade desenvolvida com o objtivo de aplicar os conhecimentos adquirod nas aulas de instalão de ferrmaentas para utilão no terminal .
-Foram abordas as ferramentas : VSCODE, NODEJS, GIT E GITHUB .
+Atividade desenvolvida com o objetivo de aplicar os conhecimentos adquiros nas aulas de instalação de ferramentas para utilização no terminal .
+Foram abordadas as ferramentas : VSCODE, NODEJS, GIT E GITHUB .
